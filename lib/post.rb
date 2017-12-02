@@ -5,6 +5,6 @@ class Post
   def author
     @author = author
   end
-    
+
 
 end
